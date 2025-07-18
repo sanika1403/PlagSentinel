@@ -1,4 +1,19 @@
 # PlagSentinel
+
+<img width="1347" height="613" alt="image" src="https://github.com/user-attachments/assets/0fb60771-2523-412c-ac65-98139d9aa565" />
+
+
+
+<img width="1345" height="610" alt="image" src="https://github.com/user-attachments/assets/13277f1d-0ff0-47ff-9e6e-931b46d77f37" />
+
+
+
+<img width="1340" height="624" alt="image" src="https://github.com/user-attachments/assets/54a9f96c-5e3b-4603-96f2-8f683bd97960" />
+
+
+
+
+
 An AI-powered plagiarism detection platform with tools like essay writer, story generator, text summarizer, and image-to-text extractor. It checks text originality, highlights matches, and helps users create and improve content with ease. Secure, scalable, and user-friendly.
 Certainly! Below is a **README** template that includes sections for the **project overview**, **tools**, **deployment**, and other essential details. Feel free to customize it to your specific plagiarism detection project:
 

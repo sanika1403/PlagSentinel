@@ -42,13 +42,19 @@ The **Plagiarism Detection Tool** is a software application designed to identify
 - **JavaScript/HTML/CSS**: Front-end technologies used to design the user interface.
 - **Git**: Version control system used for managing the codebase.
 
-## LAnguages used
+## Languages used
 1.React.js
+
 2.Typescrpt
+
 3.Tailwind.css
+
 4.Html
+
 5.Css
+
 6.Node.js
+
 7.Javascript
 
 ## Installation
